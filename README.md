@@ -11,4 +11,4 @@ Cilj poboljšanja u ovom trenutku verzije za mobilne uređaje je:
 
 Unaprijeđenje koje će se dodati aplikaciji kao za završni rad prijediplomskog studija:
   - dodati dio za praćenje prehrane (upisivanje hrane i njezine količine koja se unijela kroz dan gdje aplikacija unesene namirnice i količine preračunava u kalorije → nešto kao da sama apliakcija u sebi ima neku verziju MyFitness Pal)
-  - izraditi mogućnost da trener svakom korisniku izradti potpuni personalizirani plan treninga i postvi parametre za prehranu
+  - izraditi mogućnost da trener svakom korisniku postvi parametre za prehranu te on kad unosi namirnice, aplikacija automatski računa kalorije i obavještava korisnika o preostalom broju kalorija
